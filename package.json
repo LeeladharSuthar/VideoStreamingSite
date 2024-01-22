@@ -1,0 +1,16 @@
+{
+  "name": "videostreamingplatform",
+  "version": "1.0.0",
+  "description": "Video Streaming Platform from Chai aur Code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.4"
+  }
+}
